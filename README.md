@@ -14,7 +14,7 @@
 <h4 align="center">
  Hello, I'm Arthur!
  <br>
- Front End developer at Yooga Technology and React Developer at XFive.  
+ Front End developer at GreenMile and React Developer at XFive.  
 </h4>
 
 #
