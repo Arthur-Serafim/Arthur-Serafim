@@ -5,7 +5,7 @@
 [![Hello](https://steamuserimages-a.akamaihd.net/ugc/264974925120148286/2E0BCF3F4CB877BEC57DD17E5AA36563E1C41B29/)](https://serafim.dev.br)
 <br/>
 [![Github Badge](https://img.shields.io/badge/-Github.io-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Arthur-Serafim)](https://github.com/Arthur-Serafim)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-serafim-335310188/
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-s-335310188/
 )](https://www.linkedin.com/in/arthur-serafim-335310188/)
 
 <h4 align="center">
