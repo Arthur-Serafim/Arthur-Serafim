@@ -11,7 +11,7 @@
 <h4 align="center">
  Hello, I'm Arthur!
  <br>
- System Developer at GreenMile and React Developer at XFive.  
+ Software Engineed at Every and Senior React Developer at Triadps.  
 </h4>
 
 #
