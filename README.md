@@ -11,7 +11,7 @@
 <h4 align="center">
  Hello, I'm Arthur!
  <br>
- Software Engineed at Every and Senior React Developer at Triadps.  
+ Software Engineer at Every and Senior React Developer at Triadps.  
 </h4>
 
 #
