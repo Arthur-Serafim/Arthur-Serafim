@@ -29,13 +29,7 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [pubg-tracker-client](https://github.com/Arthur-Serafim/pubg-tracker-client) + [api](https://github.com/Arthur-Serafim/pubg-tracker-api) | Player stats tracker on top of the official PUBG API | React, Node |
-| [cryptocurrency-tracker](https://github.com/Arthur-Serafim/cryptocurrency-tracker) | Live crypto price tracker | JavaScript |
-| [chat-app-client](https://github.com/Arthur-Serafim/chat-app-client) + [server](https://github.com/Arthur-Serafim/chat-app-server) | Real-time chat | React, Socket.io |
-| [svelte-novel-client](https://github.com/Arthur-Serafim/svelte-novel-client) | Reader client for a novel API + scraper | Svelte, Node |
-| [octofinder](https://github.com/Arthur-Serafim/octofinder) | GitHub API explorer | TypeScript |
-| [DumbWriting](https://github.com/Arthur-Serafim/DumbWriting) | tUrNs TeXt InTo ThIs | Vue |
-| [threejs-demo](https://github.com/Arthur-Serafim/threejs-demo) | Cube that follows your mouse | Three.js |
+| **cleave** | Real-time AI guitar practice in the browser: stem separation, tab transcription, live assessment and ear training | TypeScript, AI |
 
 ### 📊 Stats
 
