@@ -40,7 +40,7 @@
 ### 📊 Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arthur-Serafim&show_icons=true&hide_border=true&theme=transparent&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arthur-Serafim&show_icons=true&hide_border=true&theme=transparent" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Serafim&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
